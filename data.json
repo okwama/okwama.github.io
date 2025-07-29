@@ -1,25 +1,25 @@
 {
 	"description": "My portfolio showcasing web and mobile development projects with live demos and GitHub repositories.",
-	"githubUsername": "your-github-username",
+	"githubUsername": "okwama",
 	"avatarUrl": "",
-	"displayName": "Your Name",
-	"email": "your-email@example.com",
+	"displayName": "Benjamin Okwama",
+	"email": "bennjiokwama@gmail.com",
 	"projects": {
 		"blacklist": [],
 		"heroNames": []
 	},
 	"websites": [
 		{
-			"name": "Woosh Delivery App",
+			"name": "swiss insurance website",
 			"description": "A comprehensive delivery management system with real-time tracking",
-			"url": "https://woosh-app.com",
-			"githubUrl": "https://github.com/yourusername/woosh-app",
+			"url": "https://swissinsurance.co.ke",
+			"githubUrl": "https://github.com/okwama/swissinsurance",
 			"technologies": ["Flutter", "React", "Node.js", "PostgreSQL"],
 			"image": "/projects/woosh-app.png",
 			"featured": true
 		},
 		{
-			"name": "E-Commerce Platform",
+			"name": "jokajok Platform",
 			"description": "Modern e-commerce solution with advanced inventory management",
 			"url": "https://ecommerce-demo.com",
 			"githubUrl": "https://github.com/yourusername/ecommerce-platform",
