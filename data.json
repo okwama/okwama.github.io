@@ -12,9 +12,9 @@
 		{
 			"name": "swiss insurance website",
 			"description": "A comprehensive delivery management system with real-time tracking",
-			"url": "https://swissinsurance.co.ke",
-			"githubUrl": "https://github.com/okwama/swissinsurance",
-			"technologies": ["Flutter", "React", "Node.js", "PostgreSQL"],
+			"url": "https://swiss-life-insuarance.vercel.app/",
+			"githubUrl": "https://github.com/okwama/swiss-client",
+			"technologies": ["vite", "react", "node.js", "postgresql"],
 			"image": "/projects/woosh-app.png",
 			"featured": true
 		},
