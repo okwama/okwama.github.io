@@ -1,11 +1,40 @@
 {
-	"description": "My hobby projects, most of them are Next.js apps deployed to Vercel.",
-	"githubUsername": "octocat",
+	"description": "My portfolio showcasing web and mobile development projects with live demos and GitHub repositories.",
+	"githubUsername": "your-github-username",
 	"avatarUrl": "",
-	"displayName": "",
-	"email": "",
+	"displayName": "Your Name",
+	"email": "your-email@example.com",
 	"projects": {
 		"blacklist": [],
 		"heroNames": []
-	}
+	},
+	"websites": [
+		{
+			"name": "Woosh Delivery App",
+			"description": "A comprehensive delivery management system with real-time tracking",
+			"url": "https://woosh-app.com",
+			"githubUrl": "https://github.com/yourusername/woosh-app",
+			"technologies": ["Flutter", "React", "Node.js", "PostgreSQL"],
+			"image": "/projects/woosh-app.png",
+			"featured": true
+		},
+		{
+			"name": "E-Commerce Platform",
+			"description": "Modern e-commerce solution with advanced inventory management",
+			"url": "https://ecommerce-demo.com",
+			"githubUrl": "https://github.com/yourusername/ecommerce-platform",
+			"technologies": ["React", "TypeScript", "Node.js", "MongoDB"],
+			"image": "/projects/ecommerce.png",
+			"featured": true
+		},
+		{
+			"name": "Task Management App",
+			"description": "Collaborative task management with real-time updates",
+			"url": "https://task-manager-demo.com",
+			"githubUrl": "https://github.com/yourusername/task-manager",
+			"technologies": ["React", "Socket.io", "Express.js", "MongoDB"],
+			"image": "/projects/task-manager.png",
+			"featured": false
+		}
+	]
 }
