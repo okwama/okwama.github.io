@@ -1,6 +1,6 @@
-# 🔗 [portfolio-jirihofman.vercel.app](https://portfolio-jirihofman.vercel.app)
+# 🔗 [okwama.github.io](https://okwama.github.io)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?repository-url=https%3A%2F%2Fgithub.com%2Fjirihofman%2Fportfolio&env=GH_TOKEN,VC_TOKEN)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?repository-url=https%3A%2F%2Fgithub.com%2Fokwama%2Fokwama.github.io&env=GH_TOKEN,VC_TOKEN)
 
 My personal portfolio website, built with [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/) and deployed to [Vercel](https://vercel.com/). Based on [chronark's site](https://chronark.com/). Some ideas borrowed from [leerob/leerob.io](https://github.com/leerob/leerob.io).
 
@@ -41,16 +41,16 @@ The portfolio automatically displays comprehensive information for each reposito
 - **GraphQL queries**: Pinned repositories and organization data
 
 All data is cached and refreshed automatically to ensure good performance while providing up-to-date information.
+
 ## Running Locally
 
-
 ```sh
-git clone https://github.com/jirihofman/portfolio.git
-cd portfolio
+git clone https://github.com/okwama/okwama.github.io.git
+cd okwama.github.io
 ```
 
 ### Environment variables
-Create a `.env` file similar to [`.env.example`](https://github.com/jirihofman/profile/blob/main/.env.example).
+Create a `.env` file similar to [`.env.example`](https://github.com/okwama/okwama.github.io/blob/main/.env.example).
 ```sh
 mv .env.example .env.local
 ```
@@ -65,14 +65,13 @@ Then install dependencies and run the development server:
 ```sh
 # Install dependencies.
 npm install
-# Replace jirihofman's personal info with octocat's.
+# Replace okwama's personal info with octocat's.
 npm run setup
 # Start hacking.
-npm dev
+npm run dev
 ```
 
 Edit `data.json` to put your personal information there.
-
 
 ## Cloning / Forking
 
